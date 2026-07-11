@@ -1,0 +1,35 @@
+:root {
+  /* Brand palette */
+  --color-berry-red: #C81D4F;
+  --color-berry-red-deep: #A3163F;
+  --color-berry-purple: #2C124C;
+  --color-berry-purple-light: #6A3F8F;
+  --color-cream: #FFF8F3;
+  --color-white: #FFFFFF;
+  --color-sage: #B7C7A3;
+  --color-ink: #1F1F1F;
+  --color-ink-soft: #5B5B5B;
+
+  --focus-ring: rgba(200, 29, 79, 0.35);
+
+  /* Typography */
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Spacing scale */
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 40px;
+  --space-xl: 64px;
+  --space-2xl: 96px;
+
+  /* Radii */
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 28px;
+  --radius-pill: 999px;
+
+  /* Motion */
+  --ease-premium: cubic-bezier(0.22, 1, 0.36, 1);
+}
