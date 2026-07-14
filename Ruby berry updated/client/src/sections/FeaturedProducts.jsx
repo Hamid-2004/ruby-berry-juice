@@ -5,8 +5,8 @@ import useApi from '../hooks/useApi';
 import pr1 from '../assets/products/pr1-rb.png';
 import pr2 from '../assets/products/pr2-rb.png';
 import pr3 from '../assets/products/pr3-rb.png';
-import pr4 from '../assets/products/pr4-rb.jpeg';
-import pr5 from '../assets/products/pr5-rb.jpeg';
+import pr4 from '../assets/products/pr4-rb.png';
+import pr5 from '../assets/products/pr5-rb.png';
 
 // Local fallback so the UI still renders fully if the Express API isn't running.
 const FALLBACK_PRODUCTS = [
